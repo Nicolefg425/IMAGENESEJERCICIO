@@ -3,7 +3,7 @@ PImage lobo;
 PImage cazador;
 
 void setup () {
-  size (1200, 1200);
+  size (700, 1200);
   caperucita = loadImage ("caperucita.png");
   caperucita.loadPixels ();
   lobo = loadImage ("lobo.png");
